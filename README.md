@@ -52,6 +52,11 @@ python3 quant_scripts/downsample_talsq_ckpt.py
 python3 quant_scripts/sample_lora_intmodel.py
 
 ```
+## Fine-tuned EfficientDM Weights
+
+| Model | Dataset | Link |
+| ------- | ------- |------- |
+|  LDM-4  | ImageNet|https://drive.google.com/file/d/1xSGY5lXnBhXK9beq3j1NUXkFRr76mDLO/view|
 
 ## BibTeX
 If you find this work useful for your research, please consider citing:
